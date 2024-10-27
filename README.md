@@ -26,9 +26,11 @@ This project demonstrates how to build a modern server-side application using Ne
    git clone https://github.com/harsh-Shigwan/Anime_Vault.git
    cd Anime_Vault 
 2. Install dependencies:
+   ```bash
    npm install
 
 3. Start the development server:
+   ```
    npm run dev
 
 4. Open your browser and navigate to http://localhost:3000.
